@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@layer components {
+    .container-lg {
+        max-width: 1120px;
+        margin: 0 auto;
+    }
+    
+}
