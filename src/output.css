@@ -3017,6 +3017,11 @@
       margin-top: calc(var(--spacing) * 220);
     }
   }
+  .xl\:mt-230 {
+    @media (width >= 80rem) {
+      margin-top: calc(var(--spacing) * 230);
+    }
+  }
   .xl\:mt-250 {
     @media (width >= 80rem) {
       margin-top: calc(var(--spacing) * 250);
